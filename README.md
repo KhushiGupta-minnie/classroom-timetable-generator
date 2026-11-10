@@ -60,3 +60,13 @@ Tue: programming, english
 Khushi Kumari
 
 B.Tech CSE Core
+
+
+## Project Report
+
+[Download Project Report (PDF)](Classroom%20Timetable%20Generator%20-%20Project%20Report.pdf)
+
+
+
+
+
