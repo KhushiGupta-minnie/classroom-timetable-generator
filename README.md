@@ -69,8 +69,6 @@ B.Tech CSE Core
 
 ## Test Case Screenshots
 
-## Test Case Screenshots
-
 1. [Test Case 1 Output](test%20case%201%20-%20screenshot.png)
   
 2. [Test Case 2 Output](<test case 2 - screenshot.png>)
