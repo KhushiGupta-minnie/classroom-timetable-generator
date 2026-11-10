@@ -69,13 +69,14 @@ B.Tech CSE Core
 
 ## Test Case Screenshots
 
-1. [Test Case 1 Output](test%20case%201%20-%20screenshot.png)
+## Test Case Screenshots
 
-2. [Test Case 2 Output](test%20case%202%20-%20screenshot.png)
+1. [Test Case 1 Output](<test case 1 - screenshot.png>)
 
-3. [Test Case 3(a) Output](test%20case%203%20(a)%20-%20screenshot.png)
+2. [Test Case 2 Output](<test case 2 - screenshot.png>)
 
-4. [Test Case 3(b) Output](test%20case%203%20(b)%20-%20screenshot.png)
+3. [Test Case 3(a) Output](<test case 3 (a) - screenshot.png>)
 
-5. [Test Case 4 Output](test%20case%204%20-%20screenshot.png)
+4. [Test Case 3(b) Output](<test case 3 (b) - screenshot.png>)
 
+5. [Test Case 4 Output](<test case 4 - screenshot.png>)
