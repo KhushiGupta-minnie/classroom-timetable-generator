@@ -2,7 +2,15 @@
 
 A Python 3 project that generates a weekly classroom timetable automatically.
 
-## Project Description
+## Project Summary
+
+The Classroom Timetable Generator is a Python-based project that automatically creates a weekly class timetable.
+
+It takes the number of days, periods per day, and subject-wise periods as input. It generates a timetable while following certain rules, such as allowing a maximum of two periods of the same subject per day.
+
+The project also checks invalid inputs and displays error messages when the given conditions are not satisfied.
+
+This project demonstrates the use of Python lists, dictionaries, loops, conditional statements, and basic scheduling logic.
 
 This project generates a weekly timetable based on the number of days, periods per day, subjects, and their required periods.
 
@@ -78,3 +86,7 @@ B.Tech CSE Core
 4. [Test Case 3(b) Output](<test case 3 (b) - screenshot.png>)
 
 5. [Test Case 4 Output](<test case 4 - screenshot.png>)
+
+## Conclusion
+
+The project successfully generates a weekly classroom timetable and handles invalid inputs. It helps reduce manual timetable preparation and provides a simple way to understand scheduling using Python.
